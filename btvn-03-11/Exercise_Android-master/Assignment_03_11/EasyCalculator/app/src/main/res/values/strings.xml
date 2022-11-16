@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EasyCalculator</string>
+    <string name="clearEntry">CE</string>
+</resources>
